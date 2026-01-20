@@ -2,8 +2,7 @@ import React from 'react'
 
 const LatestCollection = () => {
   return (
-    <div>
-      
+    <div>      
     </div>
   )
 }
