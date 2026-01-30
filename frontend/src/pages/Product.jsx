@@ -49,9 +49,7 @@ const Product = () => {
           <h1 className='font-medium text-2xl mt-2'>{productData.name}</h1>
           <div></div>
         </div>
-
       </div>
-
     </div>
   ): <div className=" opacity-0"></div>
 }
